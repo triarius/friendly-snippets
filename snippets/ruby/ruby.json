@@ -254,7 +254,7 @@
     },
     "Insert pry call": {
         "prefix": "pry",
-        "body": "require 'pry'; binding.pry"
+        "body": "require 'pry-byebug'; binding.pry"
     },
     "Insert irb call": {
         "prefix": "irb",
